@@ -1,0 +1,1 @@
+A script that creates a new node js project in the specified directory and sets node and express requirements(based on global installation details) in the package.json file. If no global installation exists then it can be performed automatically (for redhat distributions).
